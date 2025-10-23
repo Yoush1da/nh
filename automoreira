@@ -1,0 +1,2 @@
+_G.AUTOCOFIZIN = "COFI-NE0T-NU9R-HFDH"
+loadstring(game:HttpGet("https://pastefy.app/bpAmFr0H/raw"))()
